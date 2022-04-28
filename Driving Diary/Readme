@@ -1,4 +1,4 @@
-Program is used to record and store trips that a person makes
+A C++ Program is used to record and store trips that a person makes
 with his/hers car.
 The program stores following information about each trip:
 • Start location
