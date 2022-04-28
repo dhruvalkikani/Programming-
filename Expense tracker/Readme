@@ -1,0 +1,3 @@
+The project is expense tracker 
+
+The user can select out of 9 options of functions  it contains (add money ,spend money, print records etc ) to select a function the user needs to enter the number beside it and fill information (if asked) the user can add records to file as well clear records and delete file ,the user can also read data and print it according to date and description based on the choice made.The program keeps the track of income and expense of the user and gives the net amount too and all data can be stored in a binary file if the user wants.
